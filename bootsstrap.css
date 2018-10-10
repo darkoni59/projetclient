@@ -1,0 +1,36 @@
+body{
+    background:url("https://www.woodbrass.com/images/SQUARE400/woodbrass/FMIC+0990409000.JPG");
+    background-size: inherit;
+
+
+}
+
+
+h1{
+    position: absolute;
+    left: 45%;
+    border-style: double ;
+    border: solid black;
+    border-width: 10px;
+}
+
+
+
+
+#artiste1{
+    position: absolute;
+    bottom: 40%;
+    right: 70%;
+    float: right;
+    border: solid black;
+    height: 14%;
+
+
+}
+#nom1{
+    position: absolute;
+    float: right;
+        color: #005cbf;
+    left: 120%;
+    bottom: 50%;
+}
