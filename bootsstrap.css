@@ -1,6 +1,10 @@
 body{
     background:url("https://www.woodbrass.com/images/SQUARE400/woodbrass/FMIC+0990409000.JPG");
     background-size: inherit;
+    margin: auto 10% auto 10%;
+    max-width: 80%;
+    background-repeat: repeat;
+    background-size: 100%;
 
 
 }
@@ -17,13 +21,13 @@ h1{
 
 
 
-#artiste1{
+#imgartiste1{
     position: absolute;
     bottom: 40%;
     right: 70%;
     float: right;
     border: solid black;
-    height: 14%;
+    height: 20%;
 
 
 }
@@ -33,4 +37,32 @@ h1{
         color: #005cbf;
     left: 120%;
     bottom: 50%;
+}#imgartiste2{
+    position: absolute;
+    bottom: 10%;
+    right: 70%;
+    border: solid black;
+    height: 15%;
+ }
+
+#artiste2{
+    position: absolute;
+    bottom:20%;
+    left: 33%;
+    color: #005cbf;
+
+}
+#artiste3{
+    position: absolute;
+    top: 100%;
+        color: #005cbf;
+    left: 32%;
+
+}
+#imgartiste3{
+    position: absolute;
+    bottom: -15%;
+    left: 19%;
+    border: solid black;
+    height: 12%;
 }
